@@ -27,9 +27,16 @@ chrome.runtime.onInstalled.addListener(async (details) => {
         }
     }
 
-    // Always apply state and schedule the patch checker
+    // 1. Apply the Static Base Rules
     loadStateAndApply();
+
+    // 2. Create the Daily Alarm
     chrome.alarms.create(UPDATE_ALARM_NAME, { periodInMinutes: 1440 }); // 24 Hours
+
+    // 3. *** NEW: Fetch the Patch Immediately ***
+    // Don't wait 24 hours. Get the latest updates right now.
+    console.log("Installing... Fetching latest patches immediately.");
+    checkForUpdates();
 });
 
 chrome.runtime.onStartup.addListener(() => {
