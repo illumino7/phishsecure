@@ -2,16 +2,16 @@ name: Update Phishing Rules
 
 on:
   schedule:
-    # Run every day at midnight UTC
+    # Run daily at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+  workflow_dispatch: # Allows manual trigger button
 
 jobs:
   update-ruleset:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write # Important: Allows the action to push changes back
+      contents: write # Critical for pushing the commit back
 
     steps:
       - name: Checkout Repository
@@ -23,24 +23,27 @@ jobs:
           node-version: '18'
 
       - name: Download Filter List
+        # -f fails silently on server errors so we don't process empty files
         run: |
-          curl -o phishing-filter.txt https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
+          curl -f -o phishing-filter.txt https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
 
       - name: Convert to Static Ruleset
         run: |
-          # This runs your existing conversion script
+          # This generates rulesets/phishing_rules.json
           node convert-list.js
 
-      - name: Check for Changes
-        id: git-check
-        run: |
-          git diff --exit-code || echo "changes_exist=true" >> $GITHUB_OUTPUT
-
       - name: Commit and Push Changes
-        if: steps.git-check.outputs.changes_exist == 'true'
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
+          
+          # Stage the specific file we care about
           git add rulesets/phishing_rules.json
-          git commit -m "Auto-update phishing ruleset [skip ci]"
-          git push
+          
+          # Check if there are changes in the index
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update phishing ruleset [skip ci]"
+            git push
+          fi
