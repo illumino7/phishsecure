@@ -18,7 +18,6 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.command === 'updateState') {
         loadStateAndApply();
     } else if (message.command === 'whitelistTemporarily') {
-        // Async action requires return true
         addTemporaryAllowRule(message.url)
             .then(() => sendResponse({ success: true }));
         return true;
@@ -54,7 +53,6 @@ async function applyBlockingMode() {
 // 4. Proceed Button Logic
 async function addTemporaryAllowRule(domain) {
     const sessionRules = await chrome.declarativeNetRequest.getSessionRules();
-    // Calculate next ID safely (defaults to 1 if no rules exist)
     const nextId = sessionRules.length > 0
         ? Math.max(...sessionRules.map(r => r.id)) + 1
         : 1;
@@ -73,6 +71,5 @@ async function addTemporaryAllowRule(domain) {
         }]
     });
 
-    // TYPO FIXED HERE: Changed NextId -> nextId
     console.log(`Temporarily allowed domain: ${domain} with rule ID ${nextId}`);
 }

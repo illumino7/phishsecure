@@ -1,9 +1,7 @@
-// convert-list.js
 const fs = require('fs');
 const path = require('path');
 
 const DNR_RULE_ID_START = 1;
-// Path relative to the extension root
 const BLOCK_PAGE_URL = 'src/block_page/block_page.html';
 
 console.log("Reading filter list...");
@@ -43,5 +41,5 @@ try {
 
 } catch (err) {
     console.error("Error processing list:", err);
-    process.exit(1); // Fail the action if something goes wrong
+    process.exit(1);
 }

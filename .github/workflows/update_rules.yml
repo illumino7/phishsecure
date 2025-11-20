@@ -2,16 +2,15 @@ name: Update Phishing Rules
 
 on:
   schedule:
-    # Run daily at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger button
+  workflow_dispatch:
 
 jobs:
   update-ruleset:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write # Critical for pushing the commit back
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -23,7 +22,6 @@ jobs:
           node-version: '18'
 
       - name: Download Filter List
-        # -f fails silently on server errors so we don't process empty files
         run: |
           curl -f -o phishing-filter.txt https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
 
