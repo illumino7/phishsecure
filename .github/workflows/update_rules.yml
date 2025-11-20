@@ -2,13 +2,22 @@ name: Update Phishing Rules
 
 on:
   schedule:
+    # Run daily at midnight UTC
     - cron: '0 0 * * *'
   workflow_dispatch:
+    inputs:
+      update_type:
+        description: 'Update Type'
+        required: true
+        default: 'patch'
+        type: choice
+        options:
+          - patch
+          - release
 
 jobs:
-  update-ruleset:
+  process-rules:
     runs-on: ubuntu-latest
-    
     permissions:
       contents: write
 
@@ -25,23 +34,29 @@ jobs:
         run: |
           curl -f -o phishing-filter.txt https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
 
-      - name: Convert to Static Ruleset
+      - name: Run Conversion Script
         run: |
-          # This generates rulesets/phishing_rules.json
-          node convert-list.js
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.update_type }}" == "release" ]]; then
+            echo "Triggering RELEASE update..."
+            node convert-list.js --release
+          else
+            echo "Triggering DAILY PATCH update..."
+            node convert-list.js
+          fi
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # Stage the specific file we care about
+          # Add both files (Git handles if one hasn't changed)
           git add rulesets/phishing_rules.json
+          git add rulesets/updates.json
           
-          # Check if there are changes in the index
+          # Check if anything actually changed
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Auto-update phishing ruleset [skip ci]"
+            git commit -m "Auto-update rules (${{ inputs.update_type || 'patch' }}) [skip ci]"
             git push
           fi
