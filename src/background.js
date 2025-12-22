@@ -3,7 +3,8 @@ const PHISHING_RULESET_ID = "phishing_ruleset";
 const UPDATE_ALARM_NAME = "daily_patch_check";
 
 // REPLACE THIS with your actual raw GitHub URL for the updates file
-const PATCH_URL = "https://raw.githubusercontent.com/illumino7/phishsecure/refs/heads/dynamic-update-test/rulesets/updates.json";
+const PATCH_URL =
+    "https://raw.githubusercontent.com/illumino7/phishsecure/refs/heads/main/rulesets/updates.json";
 
 let isEnabled = true;
 
@@ -11,18 +12,19 @@ let isEnabled = true;
 
 chrome.runtime.onInstalled.addListener(async (details) => {
     // CASE A: First Install
-    if (details.reason === 'install') {
+    if (details.reason === "install") {
         await chrome.storage.local.set({ isEnabled: true });
     }
     // CASE B: Extension Update (The user got a new version from the Store)
-    else if (details.reason === 'update') {
+    else if (details.reason === "update") {
         console.log("Extension updated. Clearing old patch rules...");
         // Clear the "Scratchpad" because the new Base likely contains these rules now
-        const currentRules = await chrome.declarativeNetRequest.getDynamicRules();
-        const currentIds = currentRules.map(rule => rule.id);
+        const currentRules =
+            await chrome.declarativeNetRequest.getDynamicRules();
+        const currentIds = currentRules.map((rule) => rule.id);
         if (currentIds.length > 0) {
             await chrome.declarativeNetRequest.updateDynamicRules({
-                removeRuleIds: currentIds
+                removeRuleIds: currentIds,
             });
         }
     }
@@ -55,13 +57,14 @@ chrome.alarms.onAlarm.addListener((alarm) => {
 // --- 3. Message Handling ---
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-    if (message.command === 'updateState') {
+    if (message.command === "updateState") {
         loadStateAndApply();
-    } else if (message.command === 'whitelistTemporarily') {
-        addTemporaryAllowRule(message.url)
-            .then(() => sendResponse({ success: true }));
+    } else if (message.command === "whitelistTemporarily") {
+        addTemporaryAllowRule(message.url).then(() =>
+            sendResponse({ success: true }),
+        );
         return true;
-    } else if (message.command === 'forceUpdate') {
+    } else if (message.command === "forceUpdate") {
         // Optional: If you want a "Check for Updates" button in your popup
         checkForUpdates().then((count) => sendResponse({ count }));
         return true;
@@ -71,7 +74,8 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
 // --- 4. Core Logic ---
 
 async function loadStateAndApply() {
-    const { isEnabled: storedIsEnabled } = await chrome.storage.local.get('isEnabled');
+    const { isEnabled: storedIsEnabled } =
+        await chrome.storage.local.get("isEnabled");
     isEnabled = storedIsEnabled !== false;
 
     console.log(`State Loaded: Enabled: ${isEnabled}`);
@@ -79,8 +83,8 @@ async function loadStateAndApply() {
 }
 
 async function applyBlockingMode() {
-    // Note: This only toggles the STATIC base. 
-    // Dynamic rules (patches) are always "loaded" but we can assume 
+    // Note: This only toggles the STATIC base.
+    // Dynamic rules (patches) are always "loaded" but we can assume
     // if isEnabled is false, the user wants everything off.
     // However, DNR doesn't have a "disable dynamic rules" toggle easily.
     // Usually, toggling the Static Base is enough for the user to feel "Off".
@@ -88,12 +92,12 @@ async function applyBlockingMode() {
     if (!isEnabled) {
         console.log("Protection OFF (Disabling Static Base).");
         await chrome.declarativeNetRequest.updateEnabledRulesets({
-            disableRulesetIds: [PHISHING_RULESET_ID]
+            disableRulesetIds: [PHISHING_RULESET_ID],
         });
     } else {
         console.log("Protection ON (Enabling Static Base).");
         await chrome.declarativeNetRequest.updateEnabledRulesets({
-            enableRulesetIds: [PHISHING_RULESET_ID]
+            enableRulesetIds: [PHISHING_RULESET_ID],
         });
     }
 }
@@ -112,23 +116,24 @@ async function checkForUpdates() {
 
         // SAFETY CHECK: The 5,000 Rule Limit
         if (newRules.length > 5000) {
-            console.warn("Too many updates for the patch system! Waiting for Store update.");
+            console.warn(
+                "Too many updates for the patch system! Waiting for Store update.",
+            );
             // Optionally: Set a badge on the icon to tell user to update?
             return 0;
         }
 
         // Get existing dynamic rules to clear them (we overwrite the patch set)
         const oldRules = await chrome.declarativeNetRequest.getDynamicRules();
-        const oldIds = oldRules.map(r => r.id);
+        const oldIds = oldRules.map((r) => r.id);
 
         await chrome.declarativeNetRequest.updateDynamicRules({
             removeRuleIds: oldIds,
-            addRules: newRules
+            addRules: newRules,
         });
 
         console.log(`Applied patch with ${newRules.length} rules.`);
         return newRules.length;
-
     } catch (error) {
         console.error("Error fetching updates:", error);
         return 0;
@@ -139,22 +144,25 @@ async function checkForUpdates() {
 
 async function addTemporaryAllowRule(domain) {
     const sessionRules = await chrome.declarativeNetRequest.getSessionRules();
-    const nextId = sessionRules.length > 0
-        ? Math.max(...sessionRules.map(r => r.id)) + 1
-        : 1;
+    const nextId =
+        sessionRules.length > 0
+            ? Math.max(...sessionRules.map((r) => r.id)) + 1
+            : 1;
 
     const urlFilter = "||" + domain + "^";
 
     await chrome.declarativeNetRequest.updateSessionRules({
-        addRules: [{
-            "id": nextId,
-            "priority": 2, // Higher priority than static (1) and dynamic (1)
-            "action": { "type": "allow" },
-            "condition": {
-                "urlFilter": urlFilter,
-                "resourceTypes": ["main_frame"]
-            }
-        }]
+        addRules: [
+            {
+                id: nextId,
+                priority: 2, // Higher priority than static (1) and dynamic (1)
+                action: { type: "allow" },
+                condition: {
+                    urlFilter: urlFilter,
+                    resourceTypes: ["main_frame"],
+                },
+            },
+        ],
     });
     console.log(`Temporarily allowed: ${domain}`);
 }
