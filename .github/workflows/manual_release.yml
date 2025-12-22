@@ -1,0 +1,38 @@
+name: Full Release Update
+
+on:
+    workflow_dispatch: # Button Only
+
+jobs:
+    release-update:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write # <--- Gives permission to push
+
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v4
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "18"
+
+            - name: Download Filter List
+              run: curl -f -o phishing-filter.txt https://malware-filter.gitlab.io/malware-filter/phishing-filter.txt
+
+            - name: Run Conversion Script (Release Mode)
+              # This updates 'phishing_rules.json' and empties 'updates.json'
+              run: node convert-list.js --release
+
+            - name: Commit and Push Release
+              run: |
+                  git config --global user.name 'GitHub Action'
+                  git config --global user.email 'action@github.com'
+
+                  # Add BOTH files
+                  git add rulesets/phishing_rules.json
+                  git add rulesets/updates.json
+
+                  git commit -m "Manual Release: Updated Base Ruleset [skip ci]"
+                  git push
