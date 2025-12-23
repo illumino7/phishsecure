@@ -1,1 +1,8770 @@
-[]
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=0393761.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||0393761.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=09353dz.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||09353dz.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=17ty01.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||17ty01.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=40vpel.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||40vpel.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=40zieb.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||40zieb.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=410fiv.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||410fiv.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=4123w1.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||4123w1.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=415ds0.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||415ds0.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=415onh.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||415onh.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=41795q.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||41795q.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=417w1c.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||417w1c.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=419m76.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||419m76.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=41a095.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||41a095.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=41b1m5.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||41b1m5.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=41brtx.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||41brtx.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=41eewf.share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||41eewf.share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=4pfxfinity.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||4pfxfinity.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=8chesapeake12.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||8chesapeake12.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=9guifuf.weeblysite.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||9guifuf.weeblysite.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=a.36562402074.xyz"
+      }
+    },
+    "condition": {
+      "urlFilter": "||a.36562402074.xyz^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aalokjamare22.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aalokjamare22.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=abha28.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||abha28.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=adad.valora.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||adad.valora.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=adithyan408.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||adithyan408.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aditya-rakesh.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aditya-rakesh.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aevilop.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aevilop.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=afayushtiwari.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||afayushtiwari.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ahmadslab.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ahmadslab.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aidasdir.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aidasdir.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=airbnb-frontend-beryl.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||airbnb-frontend-beryl.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=airbnb-seven-lime.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||airbnb-seven-lime.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ajayysinghh03.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ajayysinghh03.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=akash-muddhana.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||akash-muddhana.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=akashray0025.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||akashray0025.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=akshxtdebug.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||akshxtdebug.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro-lokalnie.pl-95451.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro-lokalnie.pl-95451.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-71130114122.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-71130114122.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-711302134122.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-711302134122.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-74130114122.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-74130114122.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-a23948012489.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-a23948012489.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-oferta6722157.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-oferta6722157.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-oferta6728127.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-oferta6728127.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-oferta6834153.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-oferta6834153.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-oferta784315.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-oferta784315.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-oferta8764271.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-oferta8764271.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegro.pl-rezerwacja295357.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegro.pl-rezerwacja295357.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.16235.click"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.16235.click^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.87430.vu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.87430.vu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.94520.vu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.94520.vu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.hlppt.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.hlppt.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.oferta417634.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.oferta417634.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-0198609.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-0198609.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-09810062.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-09810062.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-2083972.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-2083972.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-619.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-619.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-71130114122.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-71130114122.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-74130114122.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-74130114122.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-a23948012489.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-a23948012489.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta-kategorie-polecane29099.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta-kategorie-polecane29099.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta1253321.pl"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta1253321.pl^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta6234153.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta6234153.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta6722157.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta6722157.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta6722327.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta6722327.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta6728127.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta6728127.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta6834153.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta6834153.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta74630741.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta74630741.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta74730792.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta74730792.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta764326.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta764326.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-oferta8764271.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-oferta8764271.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.pl-rezerwacja295357.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.pl-rezerwacja295357.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allegrolokalnie.plsd9klagzb01xk.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allegrolokalnie.plsd9klagzb01xk.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=allverifies.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||allverifies.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=altiliovialsa.com.ar"
+      }
+    },
+    "condition": {
+      "urlFilter": "||altiliovialsa.com.ar^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=alumni.qau.edu.pk"
+      }
+    },
+    "condition": {
+      "urlFilter": "||alumni.qau.edu.pk^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=amazon-clone-delta-sage.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||amazon-clone-delta-sage.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=amazon-tau-blue.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||amazon-tau-blue.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=amazon-tau-ecru.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||amazon-tau-ecru.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=amimaatv.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||amimaatv.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anaghadevipambalath-star.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anaghadevipambalath-star.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anasmemon670.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anasmemon670.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=andyperezmdz.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||andyperezmdz.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aniruddha470.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aniruddha470.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anketa.terem-pro.ru"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anketa.terem-pro.ru^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anuragk03.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anuragk03.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anushka-0613.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anushka-0613.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=anushkakarmakar-14.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||anushkakarmakar-14.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=app-na1.hubspotdocuments.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||app-na1.hubspotdocuments.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=app.kittl.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||app.kittl.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=apps--phantom---walllet.webflow.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||apps--phantom---walllet.webflow.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=arjun-gupta1.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||arjun-gupta1.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=artedeabencoarvidas.com.br"
+      }
+    },
+    "condition": {
+      "urlFilter": "||artedeabencoarvidas.com.br^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ascommacae.com.br"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ascommacae.com.br^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ashishsk123.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ashishsk123.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=aswin-variyath.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||aswin-variyath.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=asyncprabh.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||asyncprabh.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=atharva-tiwari12.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||atharva-tiwari12.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=att021.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||att021.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=attmailboxcheck1111.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||attmailboxcheck1111.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=auth--bitbuy-cda--cdn-azure.dora.run"
+      }
+    },
+    "condition": {
+      "urlFilter": "||auth--bitbuy-cda--cdn-azure.dora.run^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=authentication.ms"
+      }
+    },
+    "condition": {
+      "urlFilter": "||authentication.ms^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=authorise.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||authorise.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=avilaleo.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||avilaleo.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ayesha-nisar1011.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ayesha-nisar1011.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ayush5683.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ayush5683.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ayushi3003.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ayushi3003.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ayushjha109.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ayushjha109.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ba-atomic.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ba-atomic.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ba-rf.ru"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ba-rf.ru^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=balaji92244.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||balaji92244.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bancopichincha.paperless.com.pe"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bancopichincha.paperless.com.pe^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bankearbei.wixstudio.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bankearbei.wixstudio.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bavuka.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bavuka.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bazesteam.pips.ru"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bazesteam.pips.ru^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bdpe.lat"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bdpe.lat^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bell-syms.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bell-syms.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bellsouth-att-sign-in-b081d9.webflow.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bellsouth-att-sign-in-b081d9.webflow.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bellsouth-att-sign-in-edb829.webflow.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bellsouth-att-sign-in-edb829.webflow.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bemigames.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bemigames.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bexmb23.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bexmb23.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bidur674.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bidur674.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bintangindospinajie.standard.us-east-1.oortstorages.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bintangindospinajie.standard.us-east-1.oortstorages.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bipbeneficioya.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bipbeneficioya.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=blackfe_loginn.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||blackfe_loginn.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=blockfifi_log_usa.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||blockfifi_log_usa.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bnacrfli.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bnacrfli.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bnicrflre.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bnicrflre.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bnpacole.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bnpacole.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bookish-tribble-7jk.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bookish-tribble-7jk.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bradescliente.online"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bradescliente.online^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bradesco.appempresarial.com.br"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bradesco.appempresarial.com.br^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=brillante-avion.online"
+      }
+    },
+    "condition": {
+      "urlFilter": "||brillante-avion.online^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=btbusinessnotice.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||btbusinessnotice.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bteesecureauthentication.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bteesecureauthentication.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=c1ty0nline-bnk.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||c1ty0nline-bnk.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cancer77.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cancer77.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cartaocontinente-ptest.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cartaocontinente-ptest.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=chaitanya-92.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chaitanya-92.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=chambersbayinsurancesa.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chambersbayinsurancesa.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=changeanswer.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||changeanswer.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=chapeques.com.tr"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chapeques.com.tr^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=chauhanritik98.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chauhanritik98.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=chhatarapati-chandril.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chhatarapati-chandril.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 143,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cinnameldehyde.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cinnameldehyde.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cl.s13.exct.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cl.s13.exct.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=claimonline-dc.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||claimonline-dc.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=click.pstmrk.it"
+      }
+    },
+    "condition": {
+      "urlFilter": "||click.pstmrk.it^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=click.shootproof.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||click.shootproof.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=clinicasantacruzcompe.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||clinicasantacruzcompe.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cn.manmvp961.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cn.manmvp961.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 150,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=codder-sw.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||codder-sw.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=codedbysonu.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||codedbysonu.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 152,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=colis.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||colis.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=compics1.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||compics1.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=conclusive-customer-405210.framer.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||conclusive-customer-405210.framer.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=connect-datas.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||connect-datas.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=consent.orange.fr"
+      }
+    },
+    "condition": {
+      "urlFilter": "||consent.orange.fr^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=content.sixflags.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||content.sixflags.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=convite-black.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||convite-black.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=convitesexclusivosblack.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||convitesexclusivosblack.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=correoiiweb.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||correoiiweb.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=creditaqui21.webcindario.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||creditaqui21.webcindario.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 162,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=credixs.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||credixs.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=crm.fabricaroyal.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||crm.fabricaroyal.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=cw-net.de"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cw-net.de^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 165,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=d3vsurya.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||d3vsurya.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=daclinattwebappealsite.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||daclinattwebappealsite.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=damoxkyweb.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||damoxkyweb.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=dawnquartz.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||dawnquartz.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=dcfvgbhnjksffg.blob.core.windows.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||dcfvgbhnjksffg.blob.core.windows.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=de15a61f282d58614e6a2.klarazagreb.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||de15a61f282d58614e6a2.klarazagreb.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=de880e21dbf3939f045b9a44013f190df5.aidk.to"
+      }
+    },
+    "condition": {
+      "urlFilter": "||de880e21dbf3939f045b9a44013f190df5.aidk.to^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 172,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=deepanshuolakh.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||deepanshuolakh.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 173,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=dharmendra06.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||dharmendra06.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 174,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=dhl.servirtual.cl"
+      }
+    },
+    "condition": {
+      "urlFilter": "||dhl.servirtual.cl^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 175,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=divyarajsingh342.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||divyarajsingh342.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=doctoorsnetuk.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||doctoorsnetuk.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=download-exodus.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||download-exodus.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 178,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=easybank-landing-page-master-five.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||easybank-landing-page-master-five.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 179,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=edmundlbc.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||edmundlbc.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ektakhokhar.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ektakhokhar.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=elizabethjame20.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||elizabethjame20.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 182,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=emballage.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||emballage.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 183,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=endeble-arranque.online"
+      }
+    },
+    "condition": {
+      "urlFilter": "||endeble-arranque.online^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 184,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=eorkgofnfdrase.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||eorkgofnfdrase.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 185,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=estadisticas.neored.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||estadisticas.neored.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=estudioballester.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||estudioballester.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 187,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=fab-gov-pk-account.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fab-gov-pk-account.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 188,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=fayyadhydervt123-cmyk.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fayyadhydervt123-cmyk.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 189,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=fidelityeft.shop"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fidelityeft.shop^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 190,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=fidelitysafetyeft.top"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fidelitysafetyeft.top^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 191,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=formulario-y-cita-25hdlk.cr-web.workers.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||formulario-y-cita-25hdlk.cr-web.workers.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 192,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=frabjm464756345.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||frabjm464756345.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=fsb4me.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fsb4me.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 194,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=funny-center-605835.framer.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||funny-center-605835.framer.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=gautamnishad.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gautamnishad.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 196,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=gemini-logoin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gemini-logoin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=gemini_l0us.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gemini_l0us.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=gemuilgeefn.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gemuilgeefn.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=getheadway.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||getheadway.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=getlucky.com.pt"
+      }
+    },
+    "condition": {
+      "urlFilter": "||getlucky.com.pt^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ghvdysi.6667833.cyou"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ghvdysi.6667833.cyou^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 202,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=go-optimized-api.s3.eu-west-3.amazonaws.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||go-optimized-api.s3.eu-west-3.amazonaws.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=gomezdelgado.com.ar"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gomezdelgado.com.ar^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=greemsheades.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||greemsheades.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=guisc89.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||guisc89.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 206,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=h1nes.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||h1nes.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 207,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=han.gl"
+      }
+    },
+    "condition": {
+      "urlFilter": "||han.gl^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 208,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=harshiiii18.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||harshiiii18.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=harshini-m30.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||harshini-m30.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 210,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hasanmahm.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hasanmahm.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=haswellsolutions.co.ke"
+      }
+    },
+    "condition": {
+      "urlFilter": "||haswellsolutions.co.ke^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hbajwa18.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hbajwa18.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hbradesco.integrar.chat"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hbradesco.integrar.chat^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=helpmjdesk.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||helpmjdesk.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 215,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=helpsthemsge.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||helpsthemsge.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hero-shanon.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hero-shanon.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hibazwaj1758121733369.0741910.meusitehostgator.com.br"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hibazwaj1758121733369.0741910.meusitehostgator.com.br^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 218,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=hitesh262000.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hitesh262000.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 219,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=housameje12.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||housameje12.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=howhow.cl"
+      }
+    },
+    "condition": {
+      "urlFilter": "||howhow.cl^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 221,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=idm.in"
+      }
+    },
+    "condition": {
+      "urlFilter": "||idm.in^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 222,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=idtyvfychspkebk.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||idtyvfychspkebk.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ihahmadkhan.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ihahmadkhan.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ina.am"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ina.am^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=info-manage.thegriefpad.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||info-manage.thegriefpad.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=info-reserv.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||info-reserv.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 227,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=iniciio-pr0duban.webcindario.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||iniciio-pr0duban.webcindario.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 228,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=instagram-clone-topaz-two.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||instagram-clone-topaz-two.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=inwayhosting.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||inwayhosting.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 230,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ipko.pl-client-beta-external-secure.pro"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ipko.pl-client-beta-external-secure.pro^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ipko.pl-dev-apps-auth-ai.pro"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ipko.pl-dev-apps-auth-ai.pro^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 232,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ishakshaik1.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ishakshaik1.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=itsmeraseeca.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||itsmeraseeca.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=itxziyad.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||itxziyad.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 235,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=j1y4.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||j1y4.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 236,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jahreed9.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jahreed9.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 237,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jainmayank12566.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jainmayank12566.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=janvi-code2104.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||janvi-code2104.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 239,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=japaneseswordmuseumthailand.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||japaneseswordmuseumthailand.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 240,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jenima829.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jenima829.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 241,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jimbraw.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jimbraw.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 242,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jing-le-minds.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jing-le-minds.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jokerwor.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jokerwor.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 244,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=josephsaviokav.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||josephsaviokav.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 245,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=juanpablitozito.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||juanpablitozito.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 246,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kalosec.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kalosec.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 247,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=karandevgan452.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||karandevgan452.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 248,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=karthikeya1224.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||karthikeya1224.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 249,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kartikjoshi7.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kartikjoshi7.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=katempl.cc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||katempl.cc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 251,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kathirvelan19.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kathirvelan19.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=keishin.site"
+      }
+    },
+    "condition": {
+      "urlFilter": "||keishin.site^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 253,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=khushikumari-6228.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||khushikumari-6228.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 254,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kocin-logiin_sites.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kocin-logiin_sites.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 255,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kp8008.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kp8008.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 256,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=krakenz-logginz.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||krakenz-logginz.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 257,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=krishnajain-dev.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||krishnajain-dev.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 258,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=krishnasoni231.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||krishnasoni231.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 259,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kshitij-0-nitnaware.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kshitij-0-nitnaware.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 260,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kuckoin-logi_usa.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kuckoin-logi_usa.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 261,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kucobit88.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kucobit88.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 262,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kucown-log-in.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kucown-log-in.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 263,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kucuin-in.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kucuin-in.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kunal-a22.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kunal-a22.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kuqzoiinlgin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kuqzoiinlgin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 266,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=l1nq.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||l1nq.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lakshayaol.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lakshayaol.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 268,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lanchenba1111.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lanchenba1111.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 269,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lateral-neblina.sbs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lateral-neblina.sbs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ledgdhfesecure.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ledgdhfesecure.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lihi3.cc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lihi3.cc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 272,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=listanagrode.online"
+      }
+    },
+    "condition": {
+      "urlFilter": "||listanagrode.online^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=live-pribadi-883.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||live-pribadi-883.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 274,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 275,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=livraison.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||livraison.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=livreur.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||livreur.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=locatelnett.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||locatelnett.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 278,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=locker.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||locker.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 279,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=logfixme-tamask9.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||logfixme-tamask9.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 280,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=login.fb.aimage.it"
+      }
+    },
+    "condition": {
+      "urlFilter": "||login.fb.aimage.it^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lojaboticario.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lojaboticario.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=loteria-caixa.org"
+      }
+    },
+    "condition": {
+      "urlFilter": "||loteria-caixa.org^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 283,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lotericaonline.shop"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lotericaonline.shop^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=macalino-rachelle.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||macalino-rachelle.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=maheshkalvakuntala-ctrl.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||maheshkalvakuntala-ctrl.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 286,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mahidhar-3997.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mahidhar-3997.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 287,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mailcbmgovmm.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mailcbmgovmm.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 288,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mailnewupdateservice1.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mailnewupdateservice1.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 289,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=manage-hosting.dominioregistro.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||manage-hosting.dominioregistro.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 290,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=maneesh004-code.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||maneesh004-code.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 291,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=manya1127.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||manya1127.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=me-itay-mask_logjjin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||me-itay-mask_logjjin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 293,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=me-meota-mastk-logi-in.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||me-meota-mastk-logi-in.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 294,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=meatamask_us_logi.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||meatamask_us_logi.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 295,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=meenuparashar18.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||meenuparashar18.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mein-dkdb-de-9d11d2b1075be6763.tyyp-com.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mein-dkdb-de-9d11d2b1075be6763.tyyp-com.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 297,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mejustgopal.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mejustgopal.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 298,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=meta-maszk-logg-usa.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||meta-maszk-logg-usa.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 299,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=meta-msk-us-loggin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||meta-msk-us-loggin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=metamask-us_a-loogiin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||metamask-us_a-loogiin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 301,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=metramaskk_log.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||metramaskk_log.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 302,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mettamaske_loggees.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mettamaske_loggees.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=metumaski_logion.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||metumaski_logion.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mialservicehub34.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mialservicehub34.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 305,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=michaelalves-darmlabs.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||michaelalves-darmlabs.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 306,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=microsofvoice2listen.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||microsofvoice2listen.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 307,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=minimal-wheel-227199.framer.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||minimal-wheel-227199.framer.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mirzamuhammadjawadalikazmi.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mirzamuhammadjawadalikazmi.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 309,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mondial-reconsignes.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mondial-reconsignes.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 310,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mondial-relay-actualisation.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mondial-relay-actualisation.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 311,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mondial-relay-avis.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mondial-relay-avis.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 312,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=moonswap-a6y.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||moonswap-a6y.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 313,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mr-ro-bo-t.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mr-ro-bo-t.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 314,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mrelay.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mrelay.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 315,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mstyc47.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mstyc47.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 316,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nayan235.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nayan235.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 317,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=netflix-side-project.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||netflix-side-project.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 318,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=netzerosmptserver.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||netzerosmptserver.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=neuappdkb.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||neuappdkb.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 320,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=neworder58453312.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||neworder58453312.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 321,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nexdefender.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nexdefender.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 322,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nmbtthyuonlinecares.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nmbtthyuonlinecares.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 323,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nnbxv.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nnbxv.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 324,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nubankaprovaemprestimo.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nubankaprovaemprestimo.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 325,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=nurt-shear.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||nurt-shear.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 326,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=officialdangerboy.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||officialdangerboy.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 327,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=omgnaikwade-sys.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||omgnaikwade-sys.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 328,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=onlchesapeakevfy.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||onlchesapeakevfy.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 329,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=opayservicesupport.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||opayservicesupport.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 330,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=optus.redeemallsgifts.cc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||optus.redeemallsgifts.cc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 331,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=optus.redeemegifts.cc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||optus.redeemegifts.cc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=paginas.site"
+      }
+    },
+    "condition": {
+      "urlFilter": "||paginas.site^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=panchami12345.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||panchami12345.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 334,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=parthag0703.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||parthag0703.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=parthgupta026.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||parthgupta026.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 336,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=payrollovereatelserver.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||payrollovereatelserver.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 337,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=penzkereses.ardoboz.hu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||penzkereses.ardoboz.hu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 338,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=peterstarlingsyaho.wixstudio.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||peterstarlingsyaho.wixstudio.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 339,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=phantromwallet.webflow.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||phantromwallet.webflow.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 340,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=point-relais.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||point-relais.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 341,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=portal-kucoin-login-info.typedream.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||portal-kucoin-login-info.typedream.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 342,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pr0duban-online.webcindario.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pr0duban-online.webcindario.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 343,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pranjaldeshmukh3.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pranjaldeshmukh3.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 344,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=preetamp6000.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||preetamp6000.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 345,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=promokerastasetlktok.live"
+      }
+    },
+    "condition": {
+      "urlFilter": "||promokerastasetlktok.live^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 346,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pub-4a918946090c48628b386967d39e1c4e.r2.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pub-4a918946090c48628b386967d39e1c4e.r2.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 347,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pxl.fm"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pxl.fm^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 348,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=r83ql3p56epgzw1j.click.mailersend.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||r83ql3p56epgzw1j.click.mailersend.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 349,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=r9e.c79.myftpupload.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||r9e.c79.myftpupload.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 350,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ragu3005.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ragu3005.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 351,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rahulsaini2k23.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rahulsaini2k23.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 352,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rajeekumarsingh.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rajeekumarsingh.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 353,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rajnishkumar04.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rajnishkumar04.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 354,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ramcharankhv-byte.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ramcharankhv-byte.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 355,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ramudu25.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ramudu25.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 356,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rembourser-gouv.steinandpartner.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rembourser-gouv.steinandpartner.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 357,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=reserv-hotel-checkin.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||reserv-hotel-checkin.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 358,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=retrait.livraison-relais-fr.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||retrait.livraison-relais-fr.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 359,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=revantpatel.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||revantpatel.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 360,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ritesh1282.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ritesh1282.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 361,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=roblox.com.ml"
+      }
+    },
+    "condition": {
+      "urlFilter": "||roblox.com.ml^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 362,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=roblox.com.py"
+      }
+    },
+    "condition": {
+      "urlFilter": "||roblox.com.py^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 363,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=roblox.gf"
+      }
+    },
+    "condition": {
+      "urlFilter": "||roblox.gf^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 364,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=robloxc.com.es"
+      }
+    },
+    "condition": {
+      "urlFilter": "||robloxc.com.es^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 365,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=roshanrana05.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||roshanrana05.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 366,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=royallmaiillllll.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||royallmaiillllll.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 367,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rudra2679.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rudra2679.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 368,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sac-terra.paginas.site"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sac-terra.paginas.site^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 369,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sahansabah.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sahansabah.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 370,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=samanshazia.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||samanshazia.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 371,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=samueldpeter2006-tech.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||samueldpeter2006-tech.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 372,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=saniyamujawar4444.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||saniyamujawar4444.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 373,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sarahansarii.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sarahansarii.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 374,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sauravkrgupta.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sauravkrgupta.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 375,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=secureyourusbanknow.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||secureyourusbanknow.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 376,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=senavegovpy.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||senavegovpy.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 377,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=server.cpanelmanager.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||server.cpanelmanager.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 378,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=servlce.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||servlce.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 379,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shantanu-singh13.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shantanu-singh13.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 380,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=share-na2.hsforms.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||share-na2.hsforms.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 381,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shashank6446.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shashank6446.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 382,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shekharscript.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shekharscript.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 383,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shivam-purve.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shivam-purve.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 384,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shortlink.st"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shortlink.st^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 385,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shoutout.wix.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shoutout.wix.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 386,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shraddhashilwant05.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shraddhashilwant05.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 387,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=shruuti-005.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||shruuti-005.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 388,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=site-7433x2ekz.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||site-7433x2ekz.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 389,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sivdiogroup.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sivdiogroup.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 390,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=skilled758.govt.lc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||skilled758.govt.lc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 391,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.amazcohd.shop"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.amazcohd.shop^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 392,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.jarrahhone.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.jarrahhone.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 393,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.luxurytravelvn.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.luxurytravelvn.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 394,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.phgny.cn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.phgny.cn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 395,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.pxsbql.pub"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.pxsbql.pub^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 396,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.shroudcentersocal.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.shroudcentersocal.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 397,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=smbc.telegrno.icu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||smbc.telegrno.icu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 398,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sonhosrealizados-3.dynv6.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sonhosrealizados-3.dynv6.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 399,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=soumyajana466.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||soumyajana466.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 400,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=souravpramod.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||souravpramod.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 401,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=souvikgit123.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||souvikgit123.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 402,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=spidey-rishav.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||spidey-rishav.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 403,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sportybetadder01.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportybetadder01.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 404,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=srinidhi-agni.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||srinidhi-agni.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 405,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=stanbicassets.web.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stanbicassets.web.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 406,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=stnam.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stnam.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 407,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=stratiela.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stratiela.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 408,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=studyrama-emploi.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||studyrama-emploi.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 409,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=subhankar1043.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||subhankar1043.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 410,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=subhasmita-puja.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||subhasmita-puja.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 411,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sudhansu174.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sudhansu174.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 412,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=suhana1849.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||suhana1849.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 413,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sumitahmed.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sumitahmed.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 414,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=supports-rectification.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||supports-rectification.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 415,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=suzenkumar.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||suzenkumar.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 416,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=swastik-purohit-coder.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||swastik-purohit-coder.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 417,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=syedshafinahmed.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||syedshafinahmed.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 418,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=talktalknotificationupdate1.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||talktalknotificationupdate1.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 419,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tanishr28.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tanishr28.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 420,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tawhid2001.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tawhid2001.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 421,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tchiinhemba-frontend-projects.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tchiinhemba-frontend-projects.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 422,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=terra-central.paginas.site"
+      }
+    },
+    "condition": {
+      "urlFilter": "||terra-central.paginas.site^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 423,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tgyhuiote.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tgyhuiote.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 424,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=therajdeepmallick.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||therajdeepmallick.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 425,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=thinkorswim-com-v1-online-invests-beta.pro"
+      }
+    },
+    "condition": {
+      "urlFilter": "||thinkorswim-com-v1-online-invests-beta.pro^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 426,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=thisisyuviii.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||thisisyuviii.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 427,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tilakacharya13.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tilakacharya13.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 428,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=tradeo.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tradeo.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 429,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=triangle-lilac.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||triangle-lilac.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 430,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=two-hitchhikers.ru"
+      }
+    },
+    "condition": {
+      "urlFilter": "||two-hitchhikers.ru^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 431,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=u2405942.ct.sendgrid.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||u2405942.ct.sendgrid.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 432,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=uasr208.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||uasr208.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 433,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=uk.parking-ov.vip"
+      }
+    },
+    "condition": {
+      "urlFilter": "||uk.parking-ov.vip^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 434,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=unfazed-akash.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||unfazed-akash.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 435,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=uocc-gr.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||uocc-gr.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 436,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=upholed_logiinus.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||upholed_logiinus.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 437,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=upholyducloggin.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||upholyducloggin.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 438,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=upphoold_logx.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||upphoold_logx.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 439,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=uprankk.in"
+      }
+    },
+    "condition": {
+      "urlFilter": "||uprankk.in^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 440,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us1.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us1.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 441,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us10.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us10.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 442,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us12.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us12.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 443,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us13.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us13.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 444,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us14.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us14.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 445,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us17.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us17.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 446,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us19.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us19.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 447,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us20.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us20.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 448,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us3.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us3.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 449,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us4.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us4.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 450,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us5.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us5.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 451,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us6.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us6.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 452,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us7.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us7.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 453,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us8.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us8.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 454,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=us9.campaign-archive.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||us9.campaign-archive.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 455,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=usa_gamini-ushelp.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||usa_gamini-ushelp.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 456,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=usaphold-loguin-io.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||usaphold-loguin-io.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 457,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=usarubinn-hood-logi.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||usarubinn-hood-logi.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 458,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=usmeta-maskloogn.godaddysites.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||usmeta-maskloogn.godaddysites.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 459,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=utp-ac-de-panama.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||utp-ac-de-panama.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 460,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vasia-vasia.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vasia-vasia.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 461,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=venkatprasad007.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||venkatprasad007.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 462,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=venturecombillingpagerupdate.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||venturecombillingpagerupdate.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 463,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=veroplinaserduiner.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||veroplinaserduiner.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 464,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vertex-take.pages.dev"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vertex-take.pages.dev^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 465,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vesaolerdiner.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vesaolerdiner.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 466,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vidhigupta14.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vidhigupta14.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 467,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=viewcompleteddocument.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||viewcompleteddocument.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 468,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vincent9457.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vincent9457.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 469,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=virginmedia.effective-software.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||virginmedia.effective-software.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 470,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=visiosethviqdecuq7.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||visiosethviqdecuq7.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 471,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vivasrteoficial.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vivasrteoficial.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 472,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vivek-007-bit.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vivek-007-bit.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 473,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vrfypioonefcon.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vrfypioonefcon.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 474,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=vryfviacu.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vryfviacu.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 475,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=walletconnect.yusihk.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||walletconnect.yusihk.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 476,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=waqasrajput123.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||waqasrajput123.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 477,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=washtrust-btbanking.biz"
+      }
+    },
+    "condition": {
+      "urlFilter": "||washtrust-btbanking.biz^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 478,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=washtrustonline.business"
+      }
+    },
+    "condition": {
+      "urlFilter": "||washtrustonline.business^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 479,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=web.mizuhonew.cfd"
+      }
+    },
+    "condition": {
+      "urlFilter": "||web.mizuhonew.cfd^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 480,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=webctkkpn-3gla.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||webctkkpn-3gla.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 481,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=websaver.ca"
+      }
+    },
+    "condition": {
+      "urlFilter": "||websaver.ca^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 482,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=weizihua.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||weizihua.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 483,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=whatsapp-admin.net"
+      }
+    },
+    "condition": {
+      "urlFilter": "||whatsapp-admin.net^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 484,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=whatsapp-clone3.vercel.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||whatsapp-clone3.vercel.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 485,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=wmail003tgzkr.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wmail003tgzkr.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 486,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=wordpress-1563762-6074906.cloudwaysapps.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wordpress-1563762-6074906.cloudwaysapps.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 487,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=worthy-confidence-865016.framer.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||worthy-confidence-865016.framer.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 488,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=www-robinhood-wallet.typedream.app"
+      }
+    },
+    "condition": {
+      "urlFilter": "||www-robinhood-wallet.typedream.app^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 489,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=wynikinagrod.online"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wynikinagrod.online^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 490,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=xmizxgugh.xehe.cn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xmizxgugh.xehe.cn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 491,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=xmizxguhd.nm6m2t1.cn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xmizxguhd.nm6m2t1.cn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 492,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=xmizxguhf.g218pme.cn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xmizxguhf.g218pme.cn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 493,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yaksh04.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yaksh04.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 494,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yash-bankar.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yash-bankar.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 495,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yashisahay.github.io"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yashisahay.github.io^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 496,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ykm.de"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ykm.de^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 497,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yygtfc.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yygtfc.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 498,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=zecpu.cc"
+      }
+    },
+    "condition": {
+      "urlFilter": "||zecpu.cc^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 499,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=zembra.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||zembra.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 500,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=znmbra.weebly.com"
+      }
+    },
+    "condition": {
+      "urlFilter": "||znmbra.weebly.com^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 501,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=api-01.moengage.com%2Fv1%2Femailclick%3Fem%3Djoaquim.brites%40sma-europe.eu%26amp%3B%26amp%3Buser_id%3D%40"
+      }
+    },
+    "condition": {
+      "urlFilter": "||api-01.moengage.com/v1/emailclick?em=joaquim.brites@sma-europe.eu&amp;&amp;user_id=@^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 502,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=awlsvhv.cn%2Feaclotlly.co.jp"
+      }
+    },
+    "condition": {
+      "urlFilter": "||awlsvhv.cn/eaclotlly.co.jp^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 503,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=awlsvhv.cn%2Fsdjbadur.co.jp"
+      }
+    },
+    "condition": {
+      "urlFilter": "||awlsvhv.cn/sdjbadur.co.jp^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 504,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=bio.now%2Fsupvoicexf"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bio.now/supvoicexf^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 505,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=canva.com%2Fdesign%2Fdag748xgo8s%2Fnkh0gs5ksa1c8gxg9sudqa%2Fview%3Futm_content%3Ddag748xgo8s%26amp%3Butm_campaign%3Ddesignshare%26amp%3Butm_medium%3Dlink2%26amp%3Butm_source%3Duniquelinks%26amp%3Butlid%3Dh64d2b095ea"
+      }
+    },
+    "condition": {
+      "urlFilter": "||canva.com/design/dag748xgo8s/nkh0gs5ksa1c8gxg9sudqa/view?utm_content=dag748xgo8s&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlid=h64d2b095ea^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 506,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=clients-smspickup.com%2Fas.php"
+      }
+    },
+    "condition": {
+      "urlFilter": "||clients-smspickup.com/as.php^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 507,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=databloom.cfd%2Flogin"
+      }
+    },
+    "condition": {
+      "urlFilter": "||databloom.cfd/login^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 508,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=imxprs.com%2Ffree%2Fwebmaiil%2Faccounttportal"
+      }
+    },
+    "condition": {
+      "urlFilter": "||imxprs.com/free/webmaiil/accounttportal^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 509,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=jpftio.cn%2Fpb2rrkeo%2Fsettings%2Fyy3peled%2Fhistory%2Fuyfodwm2_1t7dij%2Fgv-5abty%2Finbox%2Fcjwcxrko%2Fshipping%2Fepwhj5syce8bak%3Fsession%3Dtfjk_izj_y%26amp%3Btoken%3D_fd9eoab7zb0cgfx%26amp%3Butm_source%3Dnewsletter%26amp%3Bclickid%3Dfictppznrek8%26amp%3Bpage%3Davfo%26amp%3Bdevice%3Dmobile"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jpftio.cn/pb2rrkeo/settings/yy3peled/history/uyfodwm2_1t7dij/gv-5abty/inbox/cjwcxrko/shipping/epwhj5syce8bak?session=tfjk_izj_y&amp;token=_fd9eoab7zb0cgfx&amp;utm_source=newsletter&amp;clickid=fictppznrek8&amp;page=avfo&amp;device=mobile^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 510,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=kishvandnews.ir%2Fwp-includes%2Fwpp%2Findex.php"
+      }
+    },
+    "condition": {
+      "urlFilter": "||kishvandnews.ir/wp-includes/wpp/index.php^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 511,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=lihi2.me%2Fkjhkn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lihi2.me/kjhkn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 512,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=listado.mercadolibre.com.uy%2Fcomputacion%2Flaptops-accesorios"
+      }
+    },
+    "condition": {
+      "urlFilter": "||listado.mercadolibre.com.uy/computacion/laptops-accesorios^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 513,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=listado.mercadolibre.com.uy%2Fcomputacion%2Flaptops-accesorios%2Frepuestos"
+      }
+    },
+    "condition": {
+      "urlFilter": "||listado.mercadolibre.com.uy/computacion/laptops-accesorios/repuestos^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 514,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=listado.mercadolibre.com.uy%2Fcomputacion%2Flaptops-accesorios%2Frepuestos%2Fbaterias"
+      }
+    },
+    "condition": {
+      "urlFilter": "||listado.mercadolibre.com.uy/computacion/laptops-accesorios/repuestos/baterias^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 515,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=listado.mercadolibre.com.uy%2Fpagina%2Fstickerland"
+      }
+    },
+    "condition": {
+      "urlFilter": "||listado.mercadolibre.com.uy/pagina/stickerland^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 516,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ln.run%2F4czge"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ln.run/4czge^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 517,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ln.run%2Fkh2id"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ln.run/kh2id^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 518,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ln.run%2Fpr1qb"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ln.run/pr1qb^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 519,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mercadolibre.com.uy%2Fgz%2Faccount-verification%3Fgo%3Dhttps%253a%252f%252flistado.mercadolibre.com.uy%252fcomputacion%252flaptops-accesorios%26tid%3D6c3c045c-216a-4d34-ac7a-e34d51d20227"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mercadolibre.com.uy/gz/account-verification?go=https%3a%2f%2flistado.mercadolibre.com.uy%2fcomputacion%2flaptops-accesorios&tid=6c3c045c-216a-4d34-ac7a-e34d51d20227^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 520,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=microsoft.design%2Farticles%2Fstart-fresh-redesigning-windows-start-menu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||microsoft.design/articles/start-fresh-redesigning-windows-start-menu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 521,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=mondial-relay-horaires.com%2Fcaptcha"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mondial-relay-horaires.com/captcha^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 522,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=numina.cfd%2F3qedza90xaxvm0fg8adzot"
+      }
+    },
+    "condition": {
+      "urlFilter": "||numina.cfd/3qedza90xaxvm0fg8adzot^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 523,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=numina.cfd%2F8ped9qt1fq7ym0gmflsj4t"
+      }
+    },
+    "condition": {
+      "urlFilter": "||numina.cfd/8ped9qt1fq7ym0gmflsj4t^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 524,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pages.cm.com%2F4992029000%2F4720ef6c-173f-41e3-8fd5-7f579a4f6c1d%2Fsection%2F0"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pages.cm.com/4992029000/4720ef6c-173f-41e3-8fd5-7f579a4f6c1d/section/0^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 525,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=pay.kiwify.com.br%2Fev30pxz"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pay.kiwify.com.br/ev30pxz^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 526,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=qrz.nu%2F6prnyr"
+      }
+    },
+    "condition": {
+      "urlFilter": "||qrz.nu/6prnyr^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 527,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=qrz.nu%2Fxqfvrn"
+      }
+    },
+    "condition": {
+      "urlFilter": "||qrz.nu/xqfvrn^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 528,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=rebrand.ly%2Fletmr5w"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rebrand.ly/letmr5w^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 529,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=risu.io%2Fl2yvs"
+      }
+    },
+    "condition": {
+      "urlFilter": "||risu.io/l2yvs^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 530,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=risu.io%2Fopxdj%3Ffbclid%3Diwy2xjawo2ij5lehrua2flbqixmabicmlketfcnfcwzhdhqmfmqmfkdlrxc3j0ywzhchbfawqpntqxnjm5ndkzodg5mdi1aaeeiyfaf-gdnm0hh016ntegd5wfb7isdfzoxet-alxkh8yce1hyffad-ihken4_aem_ubhid9ut3adi6krxqpiv0g"
+      }
+    },
+    "condition": {
+      "urlFilter": "||risu.io/opxdj?fbclid=iwy2xjawo2ij5lehrua2flbqixmabicmlketfcnfcwzhdhqmfmqmfkdlrxc3j0ywzhchbfawqpntqxnjm5ndkzodg5mdi1aaeeiyfaf-gdnm0hh016ntegd5wfb7isdfzoxet-alxkh8yce1hyffad-ihken4_aem_ubhid9ut3adi6krxqpiv0g^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 531,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=sayhey.to%2Fbtalert"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sayhey.to/btalert^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 532,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=scanned.page%2Fhv6y9u"
+      }
+    },
+    "condition": {
+      "urlFilter": "||scanned.page/hv6y9u^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 533,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=scanned.page%2Fp%2Fhv6y9u"
+      }
+    },
+    "condition": {
+      "urlFilter": "||scanned.page/p/hv6y9u^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 534,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=socprofile.com%2Fyahoo.mail"
+      }
+    },
+    "condition": {
+      "urlFilter": "||socprofile.com/yahoo.mail^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 535,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=surl.lu%2Fcs-es"
+      }
+    },
+    "condition": {
+      "urlFilter": "||surl.lu/cs-es^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 536,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=turk-dreamworld.com%2Fredirector.php%3Fdo%3Dnodelay%26url%3Dhttps%3A%2F%2Fwebmailhomes.com%2Fnow%2Femail.php%3Femail%3Dir%401und1.de"
+      }
+    },
+    "condition": {
+      "urlFilter": "||turk-dreamworld.com/redirector.php?do=nodelay&url=https://webmailhomes.com/now/email.php?email=ir@1und1.de^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 537,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=urls.fr%2Fu_6rrf"
+      }
+    },
+    "condition": {
+      "urlFilter": "||urls.fr/u_6rrf^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 538,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=ventas-claro.com%2Frequestcontact%3Fautomatic"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ventas-claro.com/requestcontact?automatic^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 539,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=weps.org%2Fcompany%2Fbanco-original"
+      }
+    },
+    "condition": {
+      "urlFilter": "||weps.org/company/banco-original^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 540,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=wvticbg.cn%2Fufjucyn.co.jp"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wvticbg.cn/ufjucyn.co.jp^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 541,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=y.gy%2F5oam"
+      }
+    },
+    "condition": {
+      "urlFilter": "||y.gy/5oam^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 542,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yayforms.link%2Fw6wxjjy"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yayforms.link/w6wxjjy^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 543,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yogisandyoginis.com%2Fwp-content%2Fzojj.htm"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yogisandyoginis.com/wp-content/zojj.htm^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 544,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yogisandyoginis.com%2Fwp-content%2Fzojj.htm%3Femail%3D"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yogisandyoginis.com/wp-content/zojj.htm?email=^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 545,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yogisandyoginis.com%2Fwp-content%2Fzojj.htm%3Femail%3Demail%40address.eu"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yogisandyoginis.com/wp-content/zojj.htm?email=email@address.eu^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 546,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yogisandyoginis.com%2Fwp-content%2Fzzdlls.htm"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yogisandyoginis.com/wp-content/zzdlls.htm^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 547,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yogisandyoginis.com%2Fzpwll.html"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yogisandyoginis.com/zpwll.html^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
+  {
+    "id": 548,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/src/block_page/block_page.html?url=yzkxdlc.cn%2Fx5p-gpx%2Ftransactions%2Fcef1uv5cf0yt%2F5rwwxder%2Finbox%2Fvsvdl2b2lku1jfl%2Fztq8pu%2Fuser%2Fzwe6o0a%2Fnotifications%2F3l83u9hpjh%2Ffyjvl%2Fsubscription%2F3ns_u%2Fcart%2Fbd7ddbmw1hyt8%2Fngjpnwl%2Fhistory%2Fp8tlupucpuhjpwl%3Fsession%3D8azo03dafc%26amp%3Bclickid%3D2dysh5hkchpe%26amp%3Bproduct%3Dbygjptq2"
+      }
+    },
+    "condition": {
+      "urlFilter": "||yzkxdlc.cn/x5p-gpx/transactions/cef1uv5cf0yt/5rwwxder/inbox/vsvdl2b2lku1jfl/ztq8pu/user/zwe6o0a/notifications/3l83u9hpjh/fyjvl/subscription/3ns_u/cart/bd7ddbmw1hyt8/ngjpnwl/history/p8tlupucpuhjpwl?session=8azo03dafc&amp;clickid=2dysh5hkchpe&amp;product=bygjptq2^",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  }
+]
